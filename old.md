@@ -4,6 +4,9 @@ This collection is for non-profit.
 | PageNum | author/title | URL |
 |:--:|:--:|:--:|
 | P1 | 石田ゆうな | http://www004.upp.so-net.ne.jp/s-garden/	<br> SALLY GARDEN |
+| P2.1 | 银宵亭夜曲 | http://home.att.ne.jp/yellow/kuramoto/index.htm  |
+| P2.2-5 | TBD |   |
+| P2.6 | 宫濑まひろ | http://puremix.ne.jp/gallery.htm  |
 | P3 | 美少女NAVI/揭示板 | http://akebi.sakura.ne.jp/~minami/special/index.html	<br> 揭示板 |
 | P5 | 早瀬あきら | http://www.foxhunt.cx/~hayase/	<br> 双雾堂 |
 | P4.1 |	PACO | https://www.pixiv.net/users/135368 <br> http://www.geocities.co.jp/Playtown-Spade/3052
