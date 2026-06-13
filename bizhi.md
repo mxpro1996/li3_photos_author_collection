@@ -31,9 +31,9 @@ This repo is for collection the author info of images at "lili.cc"
 | filepath   | author/title | 
 |:--:|:--:|
 | 20030909-01s.jpg | Miss Surfersparadise 2001 <br> HP:/Author:Tamami Katsuragi |
-| 20030909-02s.jpg | Kusukusu -- Sultan ~The Lovesong is Forever~ |
+| 20030909-02s.jpg | Kusukusu -- Sultan \~The Lovesong is Forever\~ |
 | 20030909-03s.jpg | Miss Surfersparadise 2002 <br> **Author Unknown** |
-| 20030909-04s.jpg | Sakana / F&C / Canvas ~Sepia-iro no Motif~ |
+| 20030909-04s.jpg | Sakana / F&C / Canvas \~Sepia-iro no Motif\~ |
 | 20030909-05s.jpg | Sister Princess -- RePure |
 | 20030909-06s.jpg | **REPEAT** |
 | 20030909-07s.jpg | Pastel Kitchen (GIGA) |
@@ -48,10 +48,10 @@ This repo is for collection the author info of images at "lili.cc"
 | 20030909-16s.jpg | ?tsukushi akihito 332 |
 | 20030909-17s.jpg | CD disc Paper |
 | 20030909-18s.jpg | Misaka Shiori (Shiori Misaka) - Kanon <br> **Author Unknown** |
-| 20030909-19s.jpg | @R - 2000 year |
+| 20030909-19s.jpg | @R - 2000 year <br> http://www.jan.sakura.ne.jp/~r-take/ |
 | 20030909-20s.jpg | Nanahira Ai |
 | 20030909-21s.jpg | ?tsukushi akihito 332 |
-| 20030909-22s.jpg | Sakana / F&C / Canvas ~Sepia-iro no Motif~ |
+| 20030909-22s.jpg | Sakana / F&C / Canvas \~Sepia-iro no Motif\~ |
 | 20030909-23s.jpg | Studio e.go! -- ??? |
 | 20030909-24s.jpg | Neon Genesis Evangelion - Ayanami Rei |
 
