@@ -4,7 +4,7 @@ This collection is for non-profit.
 | PageNum | author/title | URL |
 |:--:|:--:|:--:|
 | P1 | 石田ゆうな | http://www004.upp.so-net.ne.jp/s-garden/	<br> SALLY GARDEN |
-| P2.1 | 银宵亭夜曲 | http://home.att.ne.jp/yellow/kuramoto/index.htm  |
+| P2.1 | 椋本夏夜 | http://home.att.ne.jp/yellow/kuramoto/index.htm <br> 银宵亭夜曲 |
 | P2.2-5 | TBD |   |
 | P2.6 | 宫濑まひろ | http://puremix.ne.jp/gallery.htm  |
 | P3 | 美少女NAVI/揭示板 | http://akebi.sakura.ne.jp/~minami/special/index.html	<br> 揭示板 |
