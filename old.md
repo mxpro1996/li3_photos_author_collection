@@ -6,7 +6,7 @@ This collection is for non-profit.
 | P1 | 石田ゆうな | http://www004.upp.so-net.ne.jp/s-garden/	<br> SALLY GARDEN |
 | P3 | 美少女NAVI/揭示板 | http://akebi.sakura.ne.jp/~minami/special/index.html	<br> 揭示板 |
 | P5 | 早瀬あきら | http://www.foxhunt.cx/~hayase/	<br> 双雾堂 |
-| P4.1 |	PACO | https://www.pixiv.net/users/135368 <br> http://www.geocities.jp/Playtown-Spade/3052 <br> 快照なし（No Captures）
+| P4.1 |	PACO | https://www.pixiv.net/users/135368 <br> http://www.geocities.co.jp/Playtown-Spade/3052
 | P4.2 | ???	| |	
 | P4.3 | 九条みか/桂木珠美/???	| http://www.foxhunt.cx/~mika/ <br> http://ww7.tiki.ne.jp/~corncat/ <br> Unknown
 | P4.4 | ???	| |	
