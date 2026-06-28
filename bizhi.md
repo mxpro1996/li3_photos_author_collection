@@ -63,5 +63,5 @@ This repo is for collection the author info of images at "lili.cc"
 | 03.jpg | **REPEAT** |
 | 04.jpg | **REPEAT** |
 | 05.jpg | **REPEAT** |
-| new01.jpg | **Author Unknown** |
+| new01.jpg | 大森 啓明<br> http://www9.big.or.jp/~yoshioh/ |
 | new02.jpg | **REPEAT** |
